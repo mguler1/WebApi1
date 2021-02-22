@@ -8,6 +8,7 @@ using WebApi1.Fake;
 
 namespace WebApi1.Controllers
 {
+    
     [Route("api/{controller}")]
     public class UsersController:ControllerBase
     {
